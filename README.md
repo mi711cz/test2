@@ -1,16 +1,2 @@
 ### TEST
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
-
-das ist ein Test
+Playing with Git
